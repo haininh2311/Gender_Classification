@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ## Huấn luyện
 Huấn luyện model với notebook: `notebooks/gender_classification.ipynb`. Kết quả được lưu tại:
 ```
-experiments/checkpoints/best_model.pt
+experiments/checkpoints/best_model.pth
 ```
 
 ## Chạy Flask App
