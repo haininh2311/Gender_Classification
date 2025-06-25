@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+scikit-learn
+timm
+flask
+pillow
+numpy
+flask
+matplotlib
+PIL

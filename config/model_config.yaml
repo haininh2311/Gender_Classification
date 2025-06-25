@@ -1,0 +1,5 @@
+model:
+  name: convnext_base
+  input_size: 224
+  num_classes: 2
+  weights_path: experiments/checkpoints/best_model.pth
